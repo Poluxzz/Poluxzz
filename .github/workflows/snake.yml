@@ -18,14 +18,14 @@ jobs:
         with:
           github_user_name: Poluxzz
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%2300CFFF&color_dots=%230D1B2A,%23123E66,%231769AA,%232196F3,%2300CFFF
-            dist/github-contribution-grid-snake-dark.svg?color_snake=%2300CFFF&color_dots=%230D1B2A,%23123E66,%231769AA,%232196F3,%2300CFFF
+            dist/github-contribution-grid-snake.svg?color_snake=deepskyblue&color_dots=#071A2B,#0B3D62,#087EA4,#00AEEF,#00D9FF
+            dist/github-contribution-grid-snake-dark.svg?color_snake=deepskyblue&color_dots=#071A2B,#0B3D62,#087EA4,#00AEEF,#00D9FF
 
-      - name: Push Snake to output branch
+      - name: Publish Snake
         uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
           build_dir: dist
-          commit_message: "Update blue contribution snake"
+          commit_message: "Update blue snake"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -155,6 +155,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-ori
 
 <div align="center">
 
+<div align="center">
+
 ## 📊 GitHub Statistics
 
 <br>
@@ -162,14 +164,14 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-ori
 <a href="https://github-stats-extended.vercel.app/api?username=Poluxzz">
   <img
     height="200"
-    src="https://github-stats-extended.vercel.app/api?username=Poluxzz&show_icons=true&locale=pt-br&commits_year=2026&include_all_commits=true&hide=contribs&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF&border_color=1F6FEB&ring_color=58A6FF&custom_title=Minhas%20Estat%C3%ADsticas"
+    src="https://github-stats-extended.vercel.app/api?username=Poluxzz&show_icons=true&locale=pt-br&commits_year=2026&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF&border_color=1F6FEB&ring_color=58A6FF&custom_title=Minhas%20Estat%C3%ADsticas"
   />
 </a>
 
-<a href="https://github-stats-extended.vercel.app/api/top-langs?username=Poluxzz&layout=compact&langs_count=8">
+<a href="https://github-stats-extended.vercel.app/api/top-langs?username=Poluxzz">
   <img
     height="200"
-    src="https://github-stats-extended.vercel.app/api/top-langs?username=Poluxzz&layout=compact&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF&border_color=1F6FEB"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=Poluxzz&layout=compact&langs_count=8&role=OWNER,COLLABORATOR&size_weight=0.5&count_weight=0.5&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF&border_color=1F6FEB"
   />
 </a>
 

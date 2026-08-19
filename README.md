@@ -107,7 +107,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.
   alt="GitHub"
   title="GitHub"
   width="35px"
-  style="padding-right: 10px;"
+  style="padding-right: 10px; filter: brightness(0) invert(1);"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
 />
 <img

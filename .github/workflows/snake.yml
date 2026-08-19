@@ -14,18 +14,20 @@ jobs:
 
     steps:
       - name: Generate Snake
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
         with:
           github_user_name: Poluxzz
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=deepskyblue&color_dots=#071A2B,#0B3D62,#087EA4,#00AEEF,#00D9FF
-            dist/github-contribution-grid-snake-dark.svg?color_snake=deepskyblue&color_dots=#071A2B,#0B3D62,#087EA4,#00AEEF,#00D9FF
+            dist/github-contribution-grid-snake.svg?color_snake=deepskyblue&color_dots=%230D1B2A,%23123E66,%231769AA,%232196F3,%2300CFFF
+            dist/github-contribution-grid-snake-dark.svg?color_snake=deepskyblue&color_dots=%230D1B2A,%23123E66,%231769AA,%232196F3,%2300CFFF
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Publish Snake
         uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
           build_dir: dist
-          commit_message: "Update blue snake"
+          commit_message: "Update blue Gojo snake"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

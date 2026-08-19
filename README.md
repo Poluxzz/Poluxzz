@@ -1,113 +1,201 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Bem+Vindo+ao+meu+perfil!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
-  </a>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=%E2%8A%B9+Bem-vindo+ao+meu+perfil!+%E2%8B%86;%E2%8A%B9+Software+Engineering+Student+%E2%8B%86;%E2%8A%B9+Code%2C+Learn%2C+Build.+%E2%8B%86" alt="Typing SVG">
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="./src/gojo.gif" width="500px" alt="Satoru Gojo">
+
 </div>
 
 #
 
-Me chamo Denzel, sou estudante de engenharia de software do Centro Universitário do Planalto Central Apparecido dos Santos (UNICEPLAC) e estou no segundo período do curso. Tenho 19 anos e sou apaixonado por tecnologia, programação e desenvolvimento de software. Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades e conhecimentos na área de tecnologia.
- 
+## 👨‍💻 Sobre mim
+
+Me chamo **Denzel**, sou estudante de **Engenharia de Software** no Centro Universitário do Planalto Central Apparecido dos Santos (**UNICEPLAC**) e atualmente estou no segundo período do curso.
+
+Tenho interesse em **programação, desenvolvimento de software e tecnologia**, buscando constantemente aprimorar meus conhecimentos através de estudos e projetos práticos.
+
+Atualmente, tenho domínio dos fundamentos da linguagem **C** e estou aprofundando meus conhecimentos em **Java**, além de trabalhar com **HTML, CSS e JavaScript** no desenvolvimento web.
+
 #
 
-<img align="right" alt="" height="190px" src="./src/edgerunners.gif">
+<img align="right" alt="Gojo" height="190px" src="./src/gojo-side.gif">
 
-<h3 align="left">Me conheça!</h3>
+<h3 align="left">🌐 Entre em contato</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=email&logoColor=FF00F6&color:FFF)](mailto:denzeluis14@gmail.com)
-[![Discord](https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=Discord&logoColor=FF00F6&color:FFF)](https://discord.com/users/498956183043047434)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=F1F1F1&color:FFF)](https://www.instagram.com/poluxz_/)
+[![E-mail](https://img.shields.io/badge/-Email-0D1117?style=for-the-badge\&logo=gmail\&logoColor=58A6FF)](mailto:denzeluis14@gmail.com)
+[![Discord](https://img.shields.io/badge/-Discord-0D1117?style=for-the-badge\&logo=discord\&logoColor=58A6FF)](https://discord.com/users/498956183043047434)
+[![Instagram](https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge\&logo=instagram\&logoColor=58A6FF)](https://www.instagram.com/poluxz_/)
 
+<br clear="right"/>
 
-<h3 align="left">My Stack</h3>
+#
+
+<h3 align="left">💻 Tecnologias</h3>
+
+#### 🧠 Linguagens
 
 <img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+ align="left" 
+ alt="C"
+ title="C"
+ width="35px"
+ style="padding-right: 10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
 />
+
 <img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+ align="left" 
+ alt="Java"
+ title="Java"
+ width="35px"
+ style="padding-right: 10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
+
 <img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+ align="left" 
+ alt="HTML"
+ title="HTML"
+ width="35px"
+ style="padding-right: 10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+/>
+
+<img 
+ align="left" 
+ alt="CSS"
+ title="CSS"
+ width="35px"
+ style="padding-right: 10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+/>
+
+<img 
+ align="left" 
+ alt="JavaScript"
+ title="JavaScript"
+ width="35px"
+ style="padding-right: 10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+/>
+
+<br><br>
+
+#### 🔧 Ferramentas
+
+<img
+ align="left"
+ alt="Git"
+ title="Git"
+ width="35px"
+ style="padding-right: 10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
 
 <img
-    align="left"
-    alt="Github"
-    title="GitHub"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-/>
-
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+ align="left"
+ alt="GitHub"
+ title="GitHub"
+ width="35px"
+ style="padding-right: 10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
 />
 
 <img
-    align="left"
-    alt="C"
-    title="C"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
+ align="left"
+ alt="VS Code"
+ title="VS Code"
+ width="35px"
+ style="padding-right: 10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
 />
-<br/>
-<br/>
 
-<h3 align="left">GitHub Stats</h3>
+<br><br>
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats-mu-seven.vercel.app/api?username=poluxzz&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics"
+#
+
+<div align="center">
+
+## 📚 Atualmente estudando
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=java,html,css,javascript&theme=dark" />
+
+<br><br>
+
+**☕ Java** • **🌐 HTML** • **🎨 CSS** • **⚡ JavaScript**
+
+</div>
+
+#
+
+<div align="center">
+
+## 🚀 Projetos e experiência
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=c,java,html,css,javascript&theme=dark" />
+
+<br><br>
+
+
+
+#
+
+<div align="center">
+
+## 📊 GitHub Statistics
+
+<br>
+
+<a href="https://github-stats-extended.vercel.app/api?username=Poluxzz">
+  <img
+    height="200"
+    src="https://github-stats-extended.vercel.app/api?username=Poluxzz&show_icons=true&locale=pt-br&commits_year=2026&include_all_commits=true&hide=contribs&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF&border_color=1F6FEB&ring_color=58A6FF&custom_title=Minhas%20Estat%C3%ADsticas"
   />
+</a>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats-mu-seven.vercel.app/api/top-langs/?username=poluxzz&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
+<a href="https://github-stats-extended.vercel.app/api/top-langs?username=Poluxzz&layout=compact&langs_count=8">
+  <img
+    height="200"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=Poluxzz&layout=compact&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF&border_color=1F6FEB"
   />
+</a>
 
-</p>
+</div>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake.svg">
+#
+
+<div align="center">
+
+## 🐍 My Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Poluxzz/Poluxzz/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Poluxzz/Poluxzz/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Poluxzz/Poluxzz/output/github-contribution-grid-snake.svg">
 </picture>
 
+</div>
 
+#
+
+<div align="center">
+
+<img src="./src/gojo-footer.gif" width="450px" alt="Satoru Gojo">
+
+<br><br>
+
+### 「Throughout Heaven and Earth, I alone am the honored one.」
+
+</div>

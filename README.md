@@ -15,14 +15,17 @@
 </div>
 
 #
-
 ## 👨‍💻 Sobre mim
+
+<img align="right" alt="Denzel" height="220px" src="./src/denzel.gif">
 
 Me chamo **Denzel**, sou estudante de **Engenharia de Software** no Centro Universitário do Planalto Central Apparecido dos Santos (**UNICEPLAC**) e atualmente estou no segundo período do curso.
 
 Tenho interesse em **programação, desenvolvimento de software e tecnologia**, buscando constantemente aprimorar meus conhecimentos através de estudos e projetos práticos.
 
 Atualmente, tenho domínio dos fundamentos da linguagem **C** e estou aprofundando meus conhecimentos em **Java**, além de trabalhar com **HTML, CSS e JavaScript** no desenvolvimento web.
+
+<br clear="right">
 
 #
 
@@ -39,8 +42,6 @@ Atualmente, tenho domínio dos fundamentos da linguagem **C** e estou aprofundan
 #
 
 <h3 align="left">💻 Tecnologias</h3>
-
-<img align="right" alt="Satoru Gojo" height="250px" src="./src/SatoruGojo.gif">
 
 #### 🧠 Linguagens
 

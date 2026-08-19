@@ -40,51 +40,53 @@ Atualmente, tenho domínio dos fundamentos da linguagem **C** e estou aprofundan
 
 <h3 align="left">💻 Tecnologias</h3>
 
+<img align="right" alt="Satoru Gojo" height="250px" src="./src/SatoruGojo.gif">
+
 #### 🧠 Linguagens
 
 <img 
- align="left" 
- alt="C"
- title="C"
- width="35px"
- style="padding-right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
+align="left" 
+alt="C"
+title="C"
+width="35px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
 />
 
 <img 
- align="left" 
- alt="Java"
- title="Java"
- width="35px"
- style="padding-right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+align="left" 
+alt="Java"
+title="Java"
+width="35px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
 
 <img 
- align="left" 
- alt="HTML"
- title="HTML"
- width="35px"
- style="padding-right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+align="left" 
+alt="HTML"
+title="HTML"
+width="35px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
 />
 
 <img 
- align="left" 
- alt="CSS"
- title="CSS"
- width="35px"
- style="padding-right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+align="left" 
+alt="CSS"
+title="CSS"
+width="35px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
 />
 
 <img 
- align="left" 
- alt="JavaScript"
- title="JavaScript"
- width="35px"
- style="padding-right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+align="left" 
+alt="JavaScript"
+title="JavaScript"
+width="35px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
 />
 
 <br><br>
@@ -92,33 +94,34 @@ Atualmente, tenho domínio dos fundamentos da linguagem **C** e estou aprofundan
 #### 🔧 Ferramentas
 
 <img
- align="left"
- alt="Git"
- title="Git"
- width="35px"
- style="padding-right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+align="left"
+alt="Git"
+title="Git"
+width="35px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
 
 <img
- align="left"
- alt="GitHub"
- title="GitHub"
- width="35px"
- style="padding-right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+align="left"
+alt="GitHub"
+title="GitHub"
+width="35px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
 />
 
 <img
- align="left"
- alt="VS Code"
- title="VS Code"
- width="35px"
- style="padding-right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
+align="left"
+alt="VS Code"
+title="VS Code"
+width="35px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
 />
 
-<br><br>
+<br clear="right">
+<br>
 
 #
 
@@ -147,8 +150,6 @@ Atualmente, tenho domínio dos fundamentos da linguagem **C** e estou aprofundan
 <img src="https://skillicons.dev/icons?i=c,java,html,css,javascript&theme=dark" />
 
 <br><br>
-
-
 
 #
 

@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img src="./src/gojo.gif" width="500px" alt="Satoru Gojo">
+
 
 </div>
 
@@ -26,7 +26,7 @@ Atualmente, tenho domínio dos fundamentos da linguagem **C** e estou aprofundan
 
 #
 
-<img align="right" alt="Gojo" height="190px" src="./src/gojo-side.gif">
+
 
 <h3 align="left">🌐 Entre em contato</h3>
 
@@ -177,7 +177,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-ori
 
 <div align="center">
 
-<img src="./src/gojo-footer.gif" width="450px" alt="Satoru Gojo">
+
 
 <br><br>
 

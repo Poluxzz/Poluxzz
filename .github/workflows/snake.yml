@@ -18,8 +18,8 @@ jobs:
         with:
           github_user_name: Poluxzz
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#00CFFF&color_dots=#0D1B2A,#123E66,#1769AA,#2196F3,#00CFFF
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#00CFFF&color_dots=#0D1B2A,#123E66,#1769AA,#2196F3,#00CFFF
 
       - name: Push Snake to output branch
         uses: crazy-max/ghaction-github-pages@v5

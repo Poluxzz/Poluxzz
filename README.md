@@ -131,7 +131,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-ori
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=java,html,css,javascript&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,html,css,javascript,python&theme=dark" />
 
 </div>
 

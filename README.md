@@ -127,35 +127,17 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-ori
 
 <div align="center">
 
-## 📚 Atualmente estudando
+## 📚 Estudando
 
 <br>
 
 <img src="https://skillicons.dev/icons?i=java,html,css,javascript&theme=dark" />
 
-<br><br>
-
-**☕ Java** • **🌐 HTML** • **🎨 CSS** • **⚡ JavaScript**
-
 </div>
 
-#
-
 <div align="center">
-
-## 🚀 Projetos e experiência
 
 <br>
-
-<img src="https://skillicons.dev/icons?i=c,java,html,css,javascript&theme=dark" />
-
-<br><br>
-
-#
-
-<div align="center">
-
-<div align="center">
 
 ## 📊 GitHub Statistics
 
@@ -181,7 +163,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-ori
 
 <div align="center">
 
-## 🐍 My Contribution Graph
+##  My Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Poluxzz/Poluxzz/output/github-contribution-grid-snake-dark.svg">

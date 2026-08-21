@@ -141,23 +141,19 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-ori
 
 <div align="center">
 
-<div align="center">
-
-<div align="center">
-
 ## 📊 GitHub Statistics
 
 <br>
 
 <img
   height="200"
-  src="https://github.com/Poluxzz/Poluxzz/raw/main/profile/stats.svg"
+  src="https://raw.githubusercontent.com/Poluxzz/Poluxzz/main/profile/stats.svg?v=1"
   alt="GitHub Statistics"
 />
 
 <img
   height="200"
-  src="https://github.com/Poluxzz/Poluxzz/raw/main/profile/top-langs.svg"
+  src="https://raw.githubusercontent.com/Poluxzz/Poluxzz/main/profile/top-langs.svg?v=1"
   alt="Top Languages"
 />
 

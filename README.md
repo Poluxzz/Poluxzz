@@ -143,25 +143,25 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-ori
 
 <div align="center">
 
+<div align="center">
+
 ## 📊 GitHub Statistics
 
 <br>
 
 <img
   height="200"
-  src="./profile/stats.svg"
+  src="https://github.com/Poluxzz/Poluxzz/raw/main/profile/stats.svg"
   alt="GitHub Statistics"
 />
 
 <img
   height="200"
-  src="./profile/top-langs.svg"
+  src="https://github.com/Poluxzz/Poluxzz/raw/main/profile/top-langs.svg"
   alt="Top Languages"
 />
 
 </div>
-
-<div align="center">
 
 ##  My Contribution Graph
 

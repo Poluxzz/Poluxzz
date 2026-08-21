@@ -141,26 +141,25 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-ori
 
 <div align="center">
 
+<div align="center">
+
 ## 📊 GitHub Statistics
 
 <br>
 
-<a href="https://github-stats-extended.vercel.app/api?username=Poluxzz">
-  <img
-    height="200"
-    src="https://github-stats-extended.vercel.app/api?username=Poluxzz&show_icons=true&locale=pt-br&commits_year=2026&include_all_commits=true&cache_seconds=21600&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF&border_color=1F6FEB&ring_color=58A6FF&custom_title=Minhas%20Estat%C3%ADsticas"
-  />
-</a>
+<img
+  height="200"
+  src="./profile/stats.svg"
+  alt="GitHub Statistics"
+/>
 
-<a href="https://github-stats-extended.vercel.app/api/top-langs?username=Poluxzz">
-  <img
-    height="200"
-    src="https://github-stats-extended.vercel.app/api/top-langs?username=Poluxzz&layout=compact&langs_count=8&role=OWNER,COLLABORATOR&cache_seconds=21600&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF&border_color=1F6FEB"
-  />
-</a>
+<img
+  height="200"
+  src="./profile/top-langs.svg"
+  alt="Top Languages"
+/>
 
 </div>
-
 
 <div align="center">
 

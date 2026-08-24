@@ -19,7 +19,7 @@
 
 <img align="right" alt="Denzel" height="220px" src="./src/denzel.gif">
 
-Me chamo **Denzel**, sou estudante de **Engenharia de Software** no Centro Universitário do Planalto Central Apparecido dos Santos (**UNICEPLAC**) e atualmente estou no segundo período do curso.
+Me chamo **Denzel** e tenho 19 anos, sou estudante de **Engenharia de Software** no Centro Universitário do Planalto Central Apparecido dos Santos (**UNICEPLAC**) e atualmente estou no segundo período do curso.
 
 Tenho interesse em **programação, desenvolvimento de software e tecnologia**, buscando constantemente aprimorar meus conhecimentos através de estudos e projetos práticos.
 

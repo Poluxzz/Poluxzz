@@ -3,7 +3,6 @@ name: Atualizar GitHub Stats
 on:
   schedule:
     - cron: "0 */6 * * *"
-
   workflow_dispatch:
 
 permissions:
@@ -22,6 +21,9 @@ jobs:
         uses: actions/checkout@v6
         with:
           fetch-depth: 0
+
+      - name: Configurar pnpm
+        uses: pnpm/setup@v2
 
       - name: Gerar GitHub Statistics
         uses: stats-organization/github-readme-stats-action@v2

@@ -147,13 +147,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-ori
 
 <img
   height="200"
-  src="https://raw.githubusercontent.com/Poluxzz/Poluxzz/main/profile/stats.svg?v=1792080294"
+  src="https://raw.githubusercontent.com/Poluxzz/Poluxzz/main/profile/stats.svg?v=1792097332"
   alt="GitHub Statistics"
 />
 
 <img
   height="200"
-  src="https://raw.githubusercontent.com/Poluxzz/Poluxzz/main/profile/top-langs.svg?v=1792080294"
+  src="https://raw.githubusercontent.com/Poluxzz/Poluxzz/main/profile/top-langs.svg?v=1792097332"
   alt="Top Languages"
 />
 

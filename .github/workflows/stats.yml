@@ -26,6 +26,7 @@ jobs:
       - name: Gerar GitHub Statistics
         uses: stats-organization/github-readme-stats-action@v2
         with:
+          fail_on_error: true
           card: stats
           options: username=Poluxzz&show_icons=true&locale=pt-br&commits_year=2026&include_all_commits=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF&border_color=1F6FEB&ring_color=58A6FF&custom_title=Minhas%20Estat%C3%ADsticas
           path: profile/stats.svg
@@ -34,6 +35,7 @@ jobs:
       - name: Gerar Top Languages
         uses: stats-organization/github-readme-stats-action@v2
         with:
+          fail_on_error: true
           card: top-langs
           options: username=Poluxzz&layout=compact&langs_count=8&role=OWNER,COLLABORATOR&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF&border_color=1F6FEB
           path: profile/top-langs.svg
